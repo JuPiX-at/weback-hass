@@ -1,9 +1,7 @@
 Based on [package](https://github.com/opravdin/weback-unofficial).  
 
 ## Configuration
-If you use your phone number as username, type it like +{region}-{number}. Email login is working too - just place your email instead of number (like +7-abc@abc.com)
-
-example telephone number: (+7)0123456789
+Email login is working too - just place your email instead of number (like +7-abc@abc.com)
 ```yaml
 weback:
     username: +7-0123456789
